@@ -1,16 +1,30 @@
-# 🚧 README em construção 🚧
+<h1>Docker To-do List</h1>
 
-<!-- Olá, Tryber!
+<h2>Descrição</h2>
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Docker To-do List é um projeto desenvolvido para a prática dos conhecimentos de containerização de ambientes front-end e back-end de uma aplicação de lista de afazeres através da construção de seus respectivos arquivos 'Dockerfile', além da criação de um arquivo 'docker-compose.yml' para orquestrar os contêineres.
 
-É essencial que você preencha esse documento por conta própria, ok?
+<b>Disclaimer:</b> Os ambientes de front-end e back-end foram desenvolvidos por <a href="https://www.betrybe.com">@Trybe</a>.
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+<h2>Tecnologias utilizadas</h2>
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+<ul>
+  <li>Docker</li>
+</ul>
 
--->
+<h2>Como executar o projeto</h2>
+
+Para instalar as dependências:
+```bash
+npm install
+```
+
+Para executar os testes:
+```bash
+npm test
+```
+
+Para executar o projeto:
+```bash
+docker-compose up
+```
